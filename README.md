@@ -1,4 +1,4 @@
 Project-Euler
 =============
 
-Trying out Haskell
+Workigng with C++
